@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A just and modest vindication of the many thousand loyal apprentices that presented an humble address to the Lord Mayor of London: in which is manifested the reason, why they engaged themselves in such an affair: and, that they have so great a veneration and esteem for parliaments, because they are the wisest, best and safest counsellors any prince can consult and confide in, for redressing the grievances of the nation, and to make himself and his kingdom happy: as is clearly though briefly evinced in the following discourse.</title>
+         </titleStmt>
+         <extent>Approx. 19KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25391</idno><idno type="EEBO-CITATION">99890026</idno>
+  <idno type="VID">185239</idno>
+  <idno type="EEBO-PROQUEST">2240914182</idno>
+  
+            <idno type="OCLC"> 15294062</idno>
+            <idno type="STC">Wing J1223</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.9[32]</idno>
+            <idno type="STC">ESTC R35425</idno>
+            <idno type="PROQUEST">ocm99890026</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99890026e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25391)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185239)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C1:1[32])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A just and modest vindication of the many thousand loyal apprentices that presented an humble address to the Lord Mayor of London: in which is manifested the reason, why they engaged themselves in such an affair: and, that they have so great a veneration and esteem for parliaments, because they are the wisest, best and safest counsellors any prince can consult and confide in, for redressing the grievances of the nation, and to make himself and his kingdom happy: as is clearly though briefly evinced in the following discourse.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>printed for R. Goodfellow,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Apprentices --  England --  London --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:185239:1"/>
+            <head>A <hi>Just</hi> and <hi>Modest VINDICATION</hi> of the many Thousand Loyal <hi>Apprentices</hi> that presented an humble Ad<g ref="char:EOLhyphen"/>dress to the <hi>Lord Mayor of London:</hi> in which is manifested the Reason, <hi>Why</hi> They ingaged themselves in such an Affair: And, That they have so great a Veneration and Esteem for <hi>PARLIAMENTS,</hi> because They are the Wisest, Best and Safest Counsellors any Prince can Consult and Confide in, for Redressing the Grievances of the <hi>Nation,</hi> and to make himself and his Kingdom happy: as is clearly though briefly Evinced in the following Dis<g ref="char:EOLhyphen"/>course.</head>
+            <p>WE seriously pondring the Folly and Ignominy we were exposed unto, by reason of the impertinent and un<g ref="char:EOLhyphen"/>seasonable Actions of some few in our own Station: thought it our Duty and Interest to vindicate our selves from the many Defamations and vile Aspersions that are cast upon us by some few de<g ref="char:EOLhyphen"/>tracting <hi>Momus's,</hi> who, like</p>
+            <q>
+               <hi>Zoilus</hi> are <hi>Linx</hi>-ey'd, and can quickly find, Something to carp at, but their Words are Wind.</q>
+            <p>And by those that continually vilify and defame any that are upright in Life and Conversation, though they are endow'd with the greatest Loyalty imaginable: and by such that delight to render honest Designs odious, that their own deeds of Darkness may not appear, and be the less suspected</p>
+            <q>—Da justum sanctum{que} videri, Nictem Peccatis &amp; Fraudibus objice Nubem.</q>
+            <lg>
+               <l>If that their Deeds of Darkness may</l>
+               <l>Be wrapt in Clouds as black as they?</l>
+               <l>If being ugly, they may paint,</l>
+               <l>O Then they are brave true new Saints.</l>
+            </lg>
+            <p>In the first place, 'twill be very requisite, to satisfy the Publick, by giving some tolerable Reasons Why we inga<g ref="char:EOLhyphen"/>ged our selves in such an Affair, and to inform the whole World, That it was not out of Ambition to be Knighted, nor to obtain the most sumptuous Treats, that others have <hi>immerito</hi> met with.</p>
+            <p>Secondly, To vindicate the Method by which we have proceeded.</p>
+            <p>To the first Question, Why we concern'd our selves, in Things not properly belonging to us, considering we are Apprentices? We answer, Why were some in our Station incouraged (by such who would be fain accounted WISE MEN) to intermeddle with State Affairs, that are infinitely above any of their Degree or Competency of Judgment? thereby giving an Ill Example to others, whose thoughts and inclinations were otherways bent; till they had gotten an ill Precedent, which by the Influence and Instigation of some soft-headed Gentlemen, they were pre<g ref="char:EOLhyphen"/>valed upon to Imitate.</p>
+            <p>BUT Our chiefest Reason was to manifest our Loyalty to his Majesty, and our Veneration for Parlaments, notwithstanding some <hi>Thrasonical</hi> Parasites, would have all men believe, That they <hi>Omne tulerunt Punctum,</hi> and were the only Loyal Apprentices, when in Reality, their number was Insignificant, their Civility little, and their Loy<g ref="char:EOLhyphen"/>alty least of all.</p>
+            <lg>
+               <l>Though they great Boasters are, deluding some</l>
+               <l>With vaunting Words, yet when to proof they come,</l>
+               <l>And men exspect like Actions, They appear</l>
+               <l>So vain, they Merit nothing but a Jear.</l>
+            </lg>
+            <p>For, what they did, it was not out of a Principle of Loyalty, but primarily to advance themselves: and for the sake of some sordid Lucre, They may justly be compared to the Wolf in the Fable, which promised to keep the young the Sow had just pigg'd, not out of any Love to the Sow; but in hopes to obtain them as a prey to himself. And many sub<g ref="char:EOLhyphen"/>scribed it, to gratify their own Friends, and their Masters Customers; as several of them have since (to the great dishonour of their Proceedings) voluntarily Confessed. And its well known, That many of them have recanted for being so foolish as to gratify any of their Friends; or Masters Customers by rendring themselves ridiculous, in me<g ref="char:EOLhyphen"/>dling with things beyond their Sphear or Concernment.</p>
+            <p>But whilst we are accusing Others as culpable, least any should condemn us; we declare to all whether near or re<g ref="char:EOLhyphen"/>mote, That it was not out of any factious Design, to disturb the Peace, or cause more Divisions amongst our selves; for, ah alas! our Breaches are too wide already: but mearly to manifest our Innocency, and how amiable a life of Tranquility is to us, and how little pleasure we take in medling with State Affairs, because they are things of too great a Sublimity for our flender Capacities to aspire unto: Though we can (thanks be to God) affirm our Judgments and Discretions are as intelligent and Comprehensive as any of theirs. And to demonstrate, that altho many of us, that read their Address, did not subscribe it, because we feared it might seem of a tendency dishonorable to Parliaments: yet we will not be behind any of our fellow-Apprentices in Demonstration of Loyalty even to the last drop of our Blood (to his Sacred Majesty, whenever his service shall require it, against any Trators or Rebels whatsoever. Which Demonstration, we can't but admire, that any one that is <hi>Compos mentis,</hi> or truly Loyal, should condemn, vilify and reproach it; since the thing is so honest and full of the highest Expressions of Loyalty imaginable. But what can we say or do, since the world abounds with too many that <hi>Arcem ex Cloacâ facient,</hi> that will make a Mountain of a Molehill, that care not to call Light Darkness, and true Loyalty to Kings, and Veneration for Parliaments, Rebelli<g ref="char:EOLhyphen"/>on and Faction: whose chiefest Aims are to Advance themselves in honour and wealth; who to obtain Preferment and forbid Lucre, will freely pawn their Souls and Bodies.</p>
+            <lg>
+               <l>Who are such Graceless, idle, foolish Knaves,</l>
+               <l>To make their Souls and Bodies always slaves;</l>
+               <l>For love of sordid Lucre and base Gain,</l>
+               <l>And pleasures with vain honors to obtain.</l>
+            </lg>
+            <p>Oh! That they who so much pretend to the true Protestant Religion, that they Compel their fellow - Protestants to joyn with them in giving their Assent and Consent to such things as they themselves acknowledg indifferent, and what the Scripture no where warrants, would act like Q <hi>Elisabeth's</hi> Protestants; in desiring, <hi>That more faithful Laborers should be added to Gods Vineyard,</hi> than that they should be supprest: and that they would put on those Bowels of Mercy, Compassion, Moderation and Charity, as becometh true Protestants: and that they would put as candid a Constru<g ref="char:EOLhyphen"/>ction on all their Actions as they justly merit: and when they do declare, protest and perspicuously manifest the sincerity and integrity of all their Enterprises: and their Loyalty in the Superlative Degree. They would not asperse them with notorious Falsities and unchristian-like Scandals, when their Civility, Innocency and Integrity of Life merit othewise.</p>
+            <p>Secondly, We proceeded by such a Method, as but few will or can take just exceptions at, unless they will <hi>Nodum in Scirpo quaerere,</hi> seek a knot in a Bull-rush) when they are rightly informed of it, which was as followeth; When we met together, we consulted the best means we could devise for the carrying of it on; We advised all that we knew concerned in it, to behave themselves civilly to all, and to procure Subscriptions without any Riot or Disturbance of the Peace; and it has been carried on with great Prudence and Civillity, notwithstanding the numerous Affronts and Provocations we have met with by some rude, idle and impertinent Fellows in tearing our Address: Yea, though we have lost 5000 hands, yet there has been no illegal Proceedings against any of them. We entreated all to get Sub<g ref="char:EOLhyphen"/>scriptions in a decent manner, and not by Compulsion, or forcing any one beyond his own voluntary Consent, but to read it over to all that were willing to Subscribe it, if they approved of it, and when it was read, if they made any Ob<g ref="char:EOLhyphen"/>jections
+<pb facs="tcp:185239:2"/> (as few did) then we satisfied them with suitable Answers, and informed them the chief design and tendency of it; we also told them our Loyalty to His Majesty should not be wanting; and as we would always be Obedient unto him, so we would as far as in us lay, give Parliaments their due esteem and respect; because they are an essential part of the Government, and best Counsellors a Prince can consult. <hi>Plautus</hi> saith, <hi>Nemo solus sapit,</hi> and since Council is absolutely necessary in Government, they are the fittest Persons to inform their Prince of, and to advise Him in re<g ref="char:EOLhyphen"/>dressing the Grievances of the Nation, who are as so many Spectators of the Indigencies and woful Misery it groans un<g ref="char:EOLhyphen"/>der. For as <hi>Creon</hi> in <hi>Euripidem</hi> in <hi>Phaenisses,</hi> says, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Ʋnus vir non vidit omnia,</hi> no man sees all things; <hi>Plus enim vident oculi quam oculus,</hi> and as they are the best Counsellors and wisest Senators, so they are the most po<g ref="char:EOLhyphen"/>tent to assist him in securing us from all Foreign and Domestick Enemies, and in a word, to make the King and King<g ref="char:EOLhyphen"/>dom happy.</p>
+            <p>We have so great a veneration for Parliaments, That we abhor and utterly detest to see them depraved of their Ancient Rights and Priviledges; And when their Aims and Actions are only to secure the King, His Subjects and the Protestant Religion, that an Ill Construction should undeservedly be put upon them, and they trampled upon, as<g ref="char:EOLhyphen"/>persed and defamed; and that any derogation from their undoubted Power and Priviledges should be suffered to pro<g ref="char:EOLhyphen"/>ceed from any Popish <hi>Observator,</hi> or Brazen-fac'd <hi>Heraclitus,</hi> or any Debauc'd, Whoring, Damning, Tantivy Mass<g ref="char:EOLhyphen"/>monger whatsoever.</p>
+            <p>The wisest Persons are of Opinion, That a happy Union of King and Parliament, is the only means to heal our Breaches and compose our Differences in Church and State; and we read, That the wisest Princes became both Happy and Potent by consulting their Senates and most skilfull Lawyers: We shall instance several that were egregious for Wisdom and Power, <hi>viz. Aurelius Antonius Philosophus,</hi> who (as our Author says) <hi>ut Princeps per omnia Moderatissimus, ita Fortissimus fuit Imperator, Qui praeter alia Hoc, tulit Elogium, quod Dion. &amp; Suidas refert.</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>Quod sui semper similis in omnibus fuerit, ne{que} ullam re unquam va<g ref="char:EOLhyphen"/>riabilis, aut mutabilis: revera bonus Vir, nequicquam habens simulati. Is verò Tantus etiam prudens Imperator, nec Imbecilis Rebus, nec in civilibus negotjis, quicquam agere solitus fuit sine Consilio Senatûs, &amp; Jurisperitorum. Quam ob causam a quopiam Re<g ref="char:EOLhyphen"/>prehensus, quod nimio plus tribueret Amicorum Concilijs: Quanto (inquit) aequius est me tot, &amp; tales amicos omnes; meam unius se<g ref="char:EOLhyphen"/>qui voluntatem? Sentiens nimirum cum, qui de suâ unius sententia omnia gerit, super bum magis, quam sapientem judicandum esse.</hi> This valiant wise Prince would act nothing of Moment without the advise of the Senate and most skilful Lawyers, for which a certain person reproved him, for overmuch compliance with the Counsel of his Friends, to whom he very humbly repli<g ref="char:EOLhyphen"/>ed, <hi>It is much more reasonable that I alone follow the Opinion of so great a number of my good and faithful Friends as ye are; than that so many Wise menshould follow the Opinion of ME alone:</hi> Thinking he that Acts all things according to his own Judgment, should be accounted a man full of Pride rather than Wisdom; For the Poet saith, <hi>Consilio Quicunque suo sapit, haud sapit ille. Consilio Alterius, qui sapit, ille sapit.</hi> And as our Author says, <hi>Things determined and resolved by many Brains are always wiser, safer and better ordered, than by the Resolution of one man.</hi> And <hi>Solomon</hi> says, <hi>In the midst of Council there is safety.</hi>
+            </p>
+            <p>We see also that the Ancient Romans and Commonwealths well governed, have always followd and observd, that which by plurality of wise mens voices was concluded and determined, and truly, the wiser a Prince is, the more he will suspect his own Opinion, for the same Wisdom which is in him will perswade him not to credit himself too much, and to suspect his own judgment, in his own case, and so to suffer himself to be governed by his Council. Our Authors say further, If a Prince be not endued with much Wisdom, yet if he resolves to Govern by Council, his Affairs will be better managed than they could be by his own Head. In all cases presupposing that his Council be compounded of good and capable men, which have always before their Eyes, the service and utillity of their Prince, which is no other but the Commonwealth.</p>
+            <p>
+               <hi>Charles</hi> the VIII. of <hi>France,</hi> though he was a King of no great understanding of wisdom, yet the E<g ref="char:EOLhyphen"/>states that were Assembled at <hi>Tours</hi> gave him good Councel, which they chose of fit and capable per<g ref="char:EOLhyphen"/>sons, <note place="margin">
+                  <hi>Annals of Franck<g ref="char:EOLhyphen"/>ford.</hi> 1484.</note> by which Counsel the Kingdom was well governed, and under <hi>Alexander Severus</hi> the Affairs of the Common-wealth were well Governed by means of good Counsellors.</p>
+            <p>We hope these our moderate reasons why we have so great an Esteem and Respect for Parliaments, will be Candidly ac<g ref="char:EOLhyphen"/>cepred by those that may read them: And now having clearly evinced the Benefits which attend the King and Kingdom by reason of Parliaments, we admire that any Persons can pretend to Loyalty, and to respect the King and Government, who are at the same time labouring <hi>manibus pedibus{que}</hi> Tooth and Nail to subvert an essential part of it, and to perswade him to lay afide his best Friends and Wisest Counsellors (we mean Parliaments) whose Advice and Assistance is the wisest, best and safest, for the making any King not only Rich and Potent, but also him and his Subjects always happy, as we have undeniably proved before. And since Parliaments are a considerable part of the Government; We think <hi>Th. R,</hi> and the Authors of <hi>Heraclitus,</hi> who contrary to Law, defame and villify them, and render them as odious and contemptible as any base Fellows whatsoever; ought to suffer the greatest and severest punishments the Laws will allow, for the notorious impudency and detraction they are guilty of: most people know what Sordid, Popish Mercenary Fellows they are, and tis the desire of all good Protestants that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in time their deeds of Darkness may be made more manifest. As for that old, mercenary, carping <hi>Zoilus R.</hi> he is sufficiently known as to his Debauched and Unchaste Life, wicked Principles and Popish Designs, insomuch that many say,</p>
+            <lg>
+               <l>Dost think the King and Kingdom do not see,</l>
+               <l>And know that nothing good can come from thee,</l>
+               <l>Can Swine yield sweet Perfumes, can Swans breed Crows?</l>
+               <l>Can Flattering Rogues have but dissembling shows?</l>
+               <l>Can Health he hidden in the Plogue or <hi>Pox?</hi>
+               </l>
+               <l>Can men take Pride in Fetters, Bonds or Stocks?</l>
+               <l>And more impossible than are all these,</l>
+               <l>It is that thou should'st any good man please,</l>
+               <l>Except it be a flash, a spark, a spirt,</l>
+               <l>Soon in, soon out, and then so sweet as Dirt:</l>
+               <l>Or like a Candles Snuff for pleasing scent,</l>
+               <l>Thou leavest them deeply pleased with Discontent,</l>
+               <l>For thou like stinking Fish art grown so stale,</l>
+               <l>Thy whole days work's not worth a pot of Ale.</l>
+            </lg>
+            <p>Therefore we amicably advise Mr. <hi>Proteus,</hi> who would by all means (whether fair or foul) be accounted a great Loyal<g ref="char:EOLhyphen"/>list
+<q>(Woen as his Service to the King is such As Atheists unto God, and scarce so much.)</q> Not to decieve himself, by fancying that by such intollerable Actions he shall be the Mark of the Kings Favour, lest <hi>Ha<g ref="char:EOLhyphen"/>man</hi> like without thinking, a Halter should choak his Ambition, for certainly no Prince will deem that persons Loyalty good or true, whose chiefest aims and endeavours are to make him out of Love with his People, and consequently they defective in Allegiance to him; thereby causing perilous differences to arise between Him and His Subjects. And if our merciful King and his People should ever disagree (which God forbid,) it must only be imputed to such Rascally Politicks, who foment Differences by pressing both sides to extremities. Were it worth while to Answer the Carpings of this tem<g ref="char:EOLhyphen"/>porizing Popish Factor, we might lay him open in his proper Colour, and clear our selves from the inveterate Mercenary Pen of this common Hackney Scribler, but since his Tongue is no Slander, we shall imitate Horses and great Beasts, which pass by Barking Currs with Contempt,</p>
+            <lg>
+               <l>And shan't be moved when false Aspersions grow,</l>
+               <l>Lest false Ʋntruths like Verities should show.</l>
+            </lg>
+            <p>Candid Reader, we intreat thy Pardon for this long deviation, for we assure thee we should not have troubled our selves so much with him, had it not been absolutely necessary to inform many unintelligent persons, what Debauched, Mercena<g ref="char:EOLhyphen"/>ry Popish Tories, our Accusers and Abusers are; that they may not any more be imposed upon by such Papistical Parasites.</p>
+            <p>And having manifestly evinced the Innocency and Loyalty of us Addressors, the goodness of the Address, and with what Decency, Civily and Prudence it has been managed <hi>aboro us{que} ad mala,</hi> from first to last; and though our number of Subscribers are very many, yet none of them were obtained by such pitiful means as Pots of Ale, nor the Threats or Allurements of any Person whatsoever; but it was our own voluntary Act and Deed, not to obtain Bucks or Sumptuous Treats, or in hopes to be young Knights of the Craving Fobb, but (as we have said before) to manifest our Inno<g ref="char:EOLhyphen"/>cence and Loyalty, and the great esteem we have for Parliaments.</p>
+            <p>Having now (as we hope) satisfied any honest rational man with sufficient Reasons why we engaged our selves in such an Affair, we shall at present forbear to write, till our Opponents shall think fit to reassault us; and shall cast any more is merited false Aspersions on our Proceedings.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, <hi>Printed for</hi> R. Goodfellow. 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
